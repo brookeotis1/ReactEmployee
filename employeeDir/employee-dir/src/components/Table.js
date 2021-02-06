@@ -23,6 +23,9 @@ function Table(props) {
             <td>{new Date(employee.dob.date).toLocaleDateString()}</td>
           </tr>
          ))}
+
+        {/* props.employess.sort((a,b) => a.employee.name - b.employee.name)  */}
+
         </tbody>
         </table>
     )}
