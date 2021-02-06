@@ -28,6 +28,6 @@ function Table(props) {
 
         </tbody>
         </table>
-    )}
+    )};
 
 export default Table;
