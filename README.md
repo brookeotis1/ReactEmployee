@@ -8,6 +8,6 @@ Employee directory created with React. Break up your application's UI into compo
 As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information
 
 ## Preview
-![Image of app](../images/EmployeeDirPreview.jpg)
+![Image of app](employee-dir/public/images/EmployeeDirPreview.jpg)
 
 
